@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=snrazavi.snrazavi)
+
 <div size='20px'> My name is Alireza. Thanks for taking the time to view my GitHub Profile.
