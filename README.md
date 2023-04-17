@@ -27,3 +27,10 @@ Here are some ideas to get you started:
 -- Probabilistic modelling
 -- Medical image and signal processing
 -- Sequential data analysis
+
+<ul>
+  <li>Artificial Intelligence, Machine learning, Deep learning</li>
+  <li>Probabilistic modelling</li>
+  <li>Medical image and signal processing</li>
+  <li>Sequential data analysis</li>
+</ul>
