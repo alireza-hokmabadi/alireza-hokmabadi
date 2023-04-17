@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 <h2> About Me </h2>
 
 - 🔭 I’m currently working as a volunteer researcher at the Center for Computational Imaging and Simulation Technologies in Biomedicine (CISTIB) at the University of Leeds.
+- ⚡ My research interests are as follows:
+-- Artificial Intelligence, Machine learning, Deep learning
+-- Probabilistic modelling
+-- Medical image and signal processing
+-- Sequential data analysis
