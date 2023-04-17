@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 <ul>
   <li>🔭 I’m currently working as a volunteer researcher at the Center for Computational Imaging and Simulation Technologies in Biomedicine (CISTIB) at the University    of Leeds.</li>
-  <li></li>
   <li>⚡ My research interests are as follows:</li>
   
   <ul>
