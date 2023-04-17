@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div size='20px'> My name is Alireza. Thanks for taking the time to view my GitHub Profile.
-  </div>
+</div>
 
 <h2> About Me </h2>
 
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 -- Sequential data analysis
 
 <ul>
+- 🔭 I’m currently working as a volunteer researcher at the Center for Computational Imaging and Simulation Technologies in Biomedicine (CISTIB) at the University of Leeds.
   <li>Artificial Intelligence, Machine learning, Deep learning</li>
   <li>Probabilistic modelling</li>
   <li>Medical image and signal processing</li>
