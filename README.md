@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=snrazavi.snrazavi)
 
 <div size='20px'> My name is Alireza. Thanks for taking the time to view my GitHub Profile.
+  </div>
+
+<h2> About Me </h2>
+
+- 🔭 I’m currently working as a volunteer researcher at the Center for Computational Imaging and Simulation Technologies in Biomedicine (CISTIB) at the University of Leeds.
