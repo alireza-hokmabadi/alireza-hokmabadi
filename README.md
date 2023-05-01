@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h2> Technical Skills </h2>
 <ul>
-  <li><b>PL:</b> Python, MATLAB, Simulink, C++, HTML, CSS, MySQL</li>
+  <li><b>PL:</b> Python, MySQL, MATLAB, Simulink, C++, HTML, CSS</li>
   <li><b>ADS:</b> CST Microwave Studio, HFSS</li>
   <li><b>MCU:</b> AVR, Arduino</li>
 </ul>
