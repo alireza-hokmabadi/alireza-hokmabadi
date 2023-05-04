@@ -1,44 +1,15 @@
-### Hi there 👋
+# About Me
 
-<!--
-**ahokmabadi/ahokmabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist with a PhD in Electrical Engineering and expertise in machine/deep learning, statistical analysis, and probabilistic modeling. My current research focuses on developing predictive models for medical applications, such as cardiac motion modeling and reconstruction of 3D+t CT volumes from 2D+t X-ray projections acquired during radiotherapy. I have experience analyzing large-scale population datasets and utilizing various data analytics techniques to extract insights from complex data.
 
-Here are some ideas to get you started:
+In addition to my technical skills, I am an enthusiastic learner and always open to exploring new technologies and approaches. I am also committed to contributing to the data science community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<div size='20px'> My name is Alireza. Thanks for taking the time to view my GitHub Profile.
-</div>
-
-<h2> About Me </h2>
-
-<ul>
-  <li>🔭 I’m currently working as a volunteer researcher at the Center for Computational Imaging and Simulation Technologies in Biomedicine (CISTIB) at the University    of Leeds.</li> 
-</ul>
-
-<ul>
-  <li>⚡ My research interests are as follows:</li>  
-  <ul>
-    <li>Artificial Intelligence, Machine learning, Deep learning</li>
-    <li>Probabilistic modelling</li>
-    <li>Medical image and signal processing</li>
-    <li>Sequential data analysis</li>
-  </ul>
-</ul>
-
-<h2> Technical Skills </h2>
-<ul>
-  <li><b>PL:</b> Python, MySQL, MATLAB, Simulink</li>
-  <li><b>ADS:</b> CST Microwave Studio, HFSS</li>
-  <li><b>MCU:</b> AVR, Arduino</li>
-</ul>
-
+## Skills
+○ Software development within Python and SQL
+○ Object-oriented programming
+○ Machine learning (Scikit-learn, PyTorch, Keras)
+○ Natural Language Processing (NLP) (SpaCy)
+○ Data cleaning, transformation, and manipulation (NumPy, Pandas)
+○ Data visualization (t-SNE, Matplotlib)
+○ Computer vision (OpenCV)
+○ Source version control (Git)
