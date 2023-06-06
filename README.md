@@ -10,7 +10,7 @@ I am an enthusiastic learner and always open to exploring new technologies and a
 - Machine learning (Scikit-learn, PyTorch, Keras)
 - Natural Language Processing (NLP) (SpaCy)
 - Data cleaning, transformation, and manipulation (NumPy, Pandas)
-- Data visualization (t-SNE, Matplotlib)
+- Data visualization (Matplotlib, Seaborn)
 - Computer vision (OpenCV)
 - Source version control (Git)
 
