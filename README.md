@@ -1,6 +1,4 @@
 ![alt text](https://github.com/alireza-hokmabadi/alireza-hokmabadi/blob/main/profile_image.png)
-# About Me
-
 I am a data scientist with a PhD in Electrical Engineering and expertise in machine/deep learning, statistical analysis, and probabilistic modeling. My current research focuses on developing predictive models for medical applications, such as cardiac motion modeling and reconstruction of 3D+t CT volumes from 2D+t X-ray projections acquired during radiotherapy. I have experience analyzing large-scale population datasets and utilizing various data analytics techniques to extract insights from complex data.
 
 I am an enthusiastic learner and always open to exploring new technologies and approaches. In addition to my expertise in Python programming (with PyTorch, Keras, NumPy, Pandas, ...), I also have experience with MATLAB and Simulink.
