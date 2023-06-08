@@ -5,7 +5,7 @@ I am a data scientist with a PhD in Electrical Engineering and expertise in mach
 I am an enthusiastic learner and always open to exploring new technologies and approaches. In addition to my expertise in Python programming (with PyTorch, Keras, NumPy, Pandas, ...), I also have experience with MATLAB and Simulink.
 
 ## Skills
-- Software development within Python and SQL
+- Software development within Python and MATLAB
 - Object-oriented programming
 - Machine learning (Scikit-learn, PyTorch, Keras)
 - Natural Language Processing (NLP) (SpaCy)
